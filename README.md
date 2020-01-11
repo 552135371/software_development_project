@@ -1,5 +1,6 @@
 # Before introduction of our project, there are some explanation we would like to tell the markers. 
-1. As we started the project, the advisor recommanded us to use Jupyter notebook for developing and analysing so we didn't use Git to interact with each other. As a result, the project commit time in Github is different from the actual code writing time of each iteration.
+As we started the project, the advisor recommanded us to use Jupyter notebook for developing and analysing so we didn't use Git to interact with each other. 
+As a result, the project commit time in Github is different from the actual code writing time of each iteration.
 
 
 # user's handbook
