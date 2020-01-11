@@ -7,7 +7,7 @@ As a result, the project commit time in Github is different from the actual code
 1. Functional requirements: 
 - Realise 5 machine learning methods - SVM, K-NN, Neural Network, Decision Tree and Random Forest to build models for predicting "redshif" in the field of astronomy. 
 - Use MAE, RMSE, Accuray as evaluation metrics to compare the correctness of each method.
-- Visualize test values and predicted values for each method.
+- Visualize predictions - original values for each method.
 2. Input: Data set used to measure redshift. (The given dataset is over 25MB which is NOT able to be uploaded. The link of dataset is https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv)
 
 2. Output:
