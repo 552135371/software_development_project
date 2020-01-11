@@ -1,10 +1,24 @@
 # Before introduction of our project, there are some explanation we would like to tell the markers. 
-As we started the project, the advisor recommanded us to use Jupyter notebook for developing and analysing so we didn't use Git to interact with each other.
-At last the project commit time in Github is different from our real time (from October to January) but the log book could show our real works.
+1. As we started the project, the advisor recommanded us to use Jupyter notebook for developing and analysing so we didn't use Git to interact with each other. As a result, the project commit time in Github is different from the actual code writing time of each iteration.
 
 
-# software_development_project user's handbook
-1. Our dataset file is over 25MB which is too big to be uploaded.
-2. The "5methods_redshift.ipynb" contains our final results using 5 different machine learning methods to predict the redshift and visualize the output. This file needs to use Jupyter Notebook for running.
+# user's handbook
+1. Functional requirements: 
+- Realise 5 machine learning methods - SVM, K-NN, Neural Network, Decision Tree and Random Forest to build models for predicting "redshif" in the field of astronomy. 
+- Use MAE, RMSE, Accuray as evaluation metrics to compare the correctness of each method.
+- Visualize test values and predicted values for each method.
+2. Input: Data set used to measure redshift. (The given dataset is over 25MB which is NOT able to be uploaded. The link of dataset is https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv)
+
+2. Output:
+- MAE, RMSE and Accuracy scores of each machine learning method.
+- Visualization of raw values and predicted values for each method. Each method has three graphs - 100% sigma variance, 68% sigma variance, outlier variance.
+
+3. Operating environment:
+- Jupyter Notebook
+- python 3
+
+4. How to run the code:
+- Download dataset.
+- Run "5methods_redshift.ipynb" file in Master.
 
 # Link for our project on Git: https://github.com/552135371/software_development_project
