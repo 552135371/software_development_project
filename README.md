@@ -25,7 +25,7 @@ As a result, We are sorry that the project submission log in Github records less
 - python 3
 
 4. How to run the code:
-- Apply and download dataset  https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv.(Since this dataset is not allowed to be shared publicly, it can only be downloaded with permission) 
+- Apply and download dataset  https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv (Since this dataset is not allowed to be shared publicly, it can only be downloaded with permission) 
 - Run "5methods_redshift.ipynb" file in Master.
 
 # Team members (Git username --- Student name --- Student number)
