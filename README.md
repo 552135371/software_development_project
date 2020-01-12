@@ -1,4 +1,8 @@
-# Link to Github: https://github.com/552135371/software_development_project
+# Link to Github
+- https://github.com/552135371/software_development_project
+
+# Link for inviting markers as collaborators
+- https://github.com/552135371/software_development_project/invitations (We have already sent the link and waiting for your reply just to make suer it can be successfully authorized.
 
 # Before introduction of our project, there are some explanation we would like to tell the markers. 
 As we started the project, the advisor recommanded us to use Jupyter notebook for developing and analysing so we didn't use Git to interact with each other. 
