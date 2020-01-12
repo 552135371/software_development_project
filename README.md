@@ -26,3 +26,4 @@ As a result, We are sorry that the project submission log in Github records less
 
 # Team members (Git username --- Student name --- Student number)
 - 552135371 --- Huilin_Wang --- xgjd24 
+- Satyam274 --- Satyam_Bajpai --- xrld88 
