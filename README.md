@@ -25,4 +25,4 @@ As a result, the project commit time in Github is different from the actual code
 - Run "5methods_redshift.ipynb" file in Master.
 
 # Team members
-- Git: 55213571 Nmae: Huilin Wang Student number: xgjd24 
+- Git---55213571 Nmae---Huilin_Wang Studentnumber---xgjd24 
