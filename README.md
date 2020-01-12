@@ -1,4 +1,4 @@
-# Link for our project on Git: https://github.com/552135371/software_development_project
+# Link to Github: https://github.com/552135371/software_development_project
 
 # Before introduction of our project, there are some explanation we would like to tell the markers. 
 As we started the project, the advisor recommanded us to use Jupyter notebook for developing and analysing so we didn't use Git to interact with each other. 
