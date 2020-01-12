@@ -1,3 +1,5 @@
+# Link for our project on Git: https://github.com/552135371/software_development_project
+
 # Before introduction of our project, there are some explanation we would like to tell the markers. 
 As we started the project, the advisor recommanded us to use Jupyter notebook for developing and analysing so we didn't use Git to interact with each other. 
 As a result, the project commit time in Github is different from the actual code writing time of each iteration.
@@ -22,4 +24,5 @@ As a result, the project commit time in Github is different from the actual code
 - Download dataset using link https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv or we can send you the dataset by email (Without this dataset the code would not be run succesfully).
 - Run "5methods_redshift.ipynb" file in Master.
 
-# Link for our project on Git: https://github.com/552135371/software_development_project
+# username on github --- student name --- student number
+55213571 --- Huilin Wang --- xgjd24
