@@ -14,7 +14,7 @@ As a result, We are sorry that the project submission log in Github records less
 - Implement 5 machine learning methods - SVM, K-NN, Neural Network, Decision Tree and Random Forest to build models for predicting "redshif" in the field of astronomy. 
 - Use MAE, RMSE, Accuray as evaluation metrics to compare the correctness of each method.
 - Visualize predictions - original values for each method.
-2. Input: Data set used to measure redshift. (The given dataset is over 25MB which is NOT able to be uploaded. The link of dataset is https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv)
+2. Input: Data set used to measure redshift. (As the dataset is not allowed to be shared publicly, the link for applying access is https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv)
 
 2. Output:
 - MAE, RMSE and Accuracy scores of each machine learning method.
@@ -25,7 +25,7 @@ As a result, We are sorry that the project submission log in Github records less
 - python 3
 
 4. How to run the code:
-- Download dataset using link https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv or we can send you the dataset by email because this link needs time to get download permission. (Without this dataset the code would not be run succesfully).
+- Apply and download dataset  https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv.(Since this dataset is not allowed to be shared publicly, it can only be downloaded with permission) 
 - Run "5methods_redshift.ipynb" file in Master.
 
 # Team members (Git username --- Student name --- Student number)
