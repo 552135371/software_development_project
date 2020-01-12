@@ -2,7 +2,7 @@
 
 # Before introduction of our project, there are some explanation we would like to tell the markers. 
 As we started the project, the advisor recommanded us to use Jupyter notebook for developing and analysing so we didn't use Git to interact with each other. 
-As a result, We are sorry that the project submission log in Github records less work than what we actually completed because we did not save our precious versions, but the actual task amount will be specifically written in our reports and log book.
+As a result, We are sorry that the project submission log in Github records less work than what we actually completed, but the actual task amount will be specifically written in our reports and log book.
 
 
 # user's handbook
