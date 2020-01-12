@@ -24,5 +24,5 @@ As a result, the project commit time in Github is different from the actual code
 - Download dataset using link https://durhamuniversity-my.sharepoint.com/personal/fvhv46_durham_ac_uk/Documents/Attachments/match_COSMOS_99_with_err(1).csv or we can send you the dataset by email because this link needs time to get download permission. (Without this dataset the code would not be run succesfully).
 - Run "5methods_redshift.ipynb" file in Master.
 
-# Team members
-- Git: 55213571 Nmae: Huilin_Wang Student_number: xgjd24 
+# Team members (Git username --- Student name --- Student number)
+- 552135371 --- Huilin_Wang --- xgjd24 
