@@ -34,3 +34,4 @@ As a result, We are sorry that the project submission log in Github records less
 - sang_te   --- SangTae_Na  --- ftkk63
 - lunamox11 --- Yuehua_Qiu --- gnsb27
 - DiReese --- Di_Wang --- pnhj48
+-zhuangjy1129 --- Jiayi Zhuang --- jpsm78
